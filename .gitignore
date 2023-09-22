@@ -5,7 +5,8 @@ ipch/
 Win32/
 x64/
 release/
-build/
+build*/
+cmake-build*/
 gui_build/
 debug/
 *XE Results*/
