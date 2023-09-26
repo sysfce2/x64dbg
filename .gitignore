@@ -13,7 +13,7 @@ debug/
 doxygen*/
 doc/
 COV/
-minidump/
+bin/*/minidump/
 CppDependOut/
 .vs/
 .vscode/
